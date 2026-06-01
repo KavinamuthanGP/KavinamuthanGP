@@ -3,8 +3,8 @@
 </a>
 
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=kavin-debug&label=Profile+Visits&color=70a5fd&style=flat-square" alt="Profile Visits"/>
-  &nbsp;
+
+
   <img src="https://img.shields.io/github/followers/kavin-debug?label=Followers&style=flat-square&color=bf91f3&logoColor=white" alt="Followers"/>
 </div>
 
