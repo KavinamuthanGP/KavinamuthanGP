@@ -3,7 +3,7 @@
 </a>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavin-debug&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+ <img src="https://komarev.com/ghpvc/?username=kavin-debug&label=Profile+Visits&color=70a5fd&style=flat-square" alt="Profile Visits"/>
   &nbsp;
   <img src="https://img.shields.io/github/followers/kavin-debug?label=Followers&style=flat-square&color=bf91f3&logoColor=white" alt="Followers"/>
 </div>
@@ -36,11 +36,10 @@ public class Kavinamuthan {
     };
 
     String[] currentlyLearning = {
-        "Spring Boot", "System Design",
-        "RAG / LLM Integration", "Cloud Deployment"
+       "Spring Boot", "System Design",
+       "RAG Models", "Cloud Deployment"
     };
-
-    String funFact = "I turn offline apps into superpowers 🚀";
+    String funFact = "I turn offline apps into superpowers ";
 
     String motto() {
         return "Ship fast. Learn faster. Break nothing in prod.";
@@ -152,7 +151,7 @@ public class Kavinamuthan {
 |:--------|:------|:-----------|
 | [**🎓 Collexa**](https://campus-connect-f1f29.web.app) — Campus Event Platform | React · TypeScript · Firebase · Tailwind · Framer Motion | Full-stack PWA with student/admin role-based auth · Offline-first with Service Workers · Real-time event management · SaaS-style dashboard with calendar & team modules |
 | [**💸 SmartExpense**](https://smart-expense-pwa.web.app) — Expense Tracker PWA | React · TypeScript · Node.js · MongoDB · Firebase | Offline-first architecture via Service Workers & Web App Manifest · Secure CRUD + analytics dashboard · Lazy loading & modular design for optimal performance |
-| [**📋 Internlog**](https://github.com/kavin-debug) — Career Tracking PWA | React · Node.js · MongoDB | Career tracking platform for internship logs, skill journals, and progress analytics · Responsive dashboards with application pipelines |
+| [**📋 Internlog**]((https://github.com/kavin-debug/internlog)) — Career Tracking PWA | React · Node.js · MongoDB | Career tracking platform for internship logs, skill journals, and progress analytics · Responsive dashboards with application pipelines |
 
 </div>
 
@@ -190,8 +189,8 @@ public class Kavinamuthan {
 ```
 🧱 Spring Boot      → REST APIs · JPA · Spring Security · MVC Architecture
 🧠 RAG / LLMs       → Vector DBs · Embeddings · LangChain · Prompt Engineering
-☁️  Cloud & DevOps  → Docker · CI/CD · Firebase Advanced · Cloud Functions
-🏗️  System Design   → Scalability · Caching · Microservices · Load Balancing
+☁️ Cloud & DevOps  → Docker · CI/CD · Firebase Advanced · Cloud Functions
+🏗️ System Design   → Scalability · Caching · Microservices · Load Balancing
 ```
 
 ---
@@ -200,7 +199,7 @@ public class Kavinamuthan {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavinamuthan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavinamuthan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavinamuthan-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavinamuthan-g-p-b699b0291/)
 [![GitHub](https://img.shields.io/badge/GitHub-kavin--debug-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kavin-debug)
 [![Email](https://img.shields.io/badge/Email-kavinamuthan1%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kavinamuthan1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-70A5FD?style=flat-square&logo=vercel&logoColor=white)](https://github.com/kavin-debug)
