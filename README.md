@@ -209,7 +209,7 @@ public class Kavinamuthan {
 <br/>
 
 <div align="center">
-  <i>"Ship fast. Learn faster. Break nothing in prod."</i>
+  <i>"The game changes when you understand the rules."</i>
 </div>
 
 <br/>
