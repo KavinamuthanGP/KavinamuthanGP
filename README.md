@@ -209,7 +209,7 @@ public class Kavinamuthan {
 <br/>
 
 <div align="center">
-  <i>"The game changes when you understand the rules."</i>
+  <i>"The game gets easier once you see the patterns."</i>
 </div>
 
 <br/>
